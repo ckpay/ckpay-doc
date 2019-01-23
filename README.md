@@ -12,4 +12,4 @@
 支持多链币种，支付转账、红包空投简单流畅
 </p>
 
-<p align="center"><a href="http://www.ckpay.com">http://www.ckpay.com</a></p>
+<p align="center"><a href="http://www.ckpay.top">http://www.ckpay.top</a></p>
