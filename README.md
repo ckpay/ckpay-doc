@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://www.ckpay.top">
-    <img alt="docsify" src="./docs/_media/icon.png">
+    <img alt="docsify" src="./docs/images/icon.png">
   </a>
 </p>
 
