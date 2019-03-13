@@ -1,0 +1,12 @@
+{
+  "name": "ckpay-doc",
+  "version": "1.0.0",
+  "description": "> ckpay doc",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "docsify serve docs --port 8000"
+  },
+  "author": "zyy"
+}
