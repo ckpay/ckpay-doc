@@ -1,5 +1,6 @@
 - [文档说明](README.md)
 - [场景介绍](scenarios.md)
-- [API列表](api.md)
+- [服务器端集成](api.md)
+- [客户端端集成](app.md)
 - [错误码](Error-code.md)
 - [DEMO下载](demo.md)

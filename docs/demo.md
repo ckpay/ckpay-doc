@@ -16,6 +16,6 @@
     <td>Android</td>
     <td>客户端</td>
     <td>CKpay APP支付</td>
-    <td>待补充</td>
+    <td><a href="files/ckpay_Android.zip">下载</a></td>
 </tr>
 </table>
